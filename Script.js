@@ -1,4 +1,5 @@
-Script.js
+    Script.js
+
 //
 let color = "green"
 let elem1 = document.getElementById("button1")
